@@ -1,2 +1,2 @@
 # Flats-Page
-This a flat booking webpage developed using HTML and CSS.
+This is a flats booking webpage developed using HTML and CSS.
